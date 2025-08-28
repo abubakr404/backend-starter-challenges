@@ -21,6 +21,7 @@ A utility function to calculate expiry dates for special messages in booking or 
 
 ## 📂 Project Structure
 ### backend-starter-challenges/
+```
 ├── src/
 │   └── utils/message-utils.ts   # implementation
 ├── tests/
@@ -28,7 +29,7 @@ A utility function to calculate expiry dates for special messages in booking or 
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
+```
 ---
 
 ## 🛠 Installation
