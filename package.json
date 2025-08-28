@@ -1,0 +1,30 @@
+{
+  "name": "backend-starter-challenges",
+  "version": "1.0.0",
+  "description": "Starter backend challenges for fresh graduates and junior developers.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/src/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "keywords": [
+    "backend",
+    "typescript",
+    "challenges",
+    "learning",
+    "starter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0",
+    "@types/node": "^20.11.16"
+  }
+}
